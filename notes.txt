@@ -1,0 +1,46 @@
+1) 
+    // this module is return the instance of the 
+         mongoose.Mongoose  constructor...
+
+    require('mongoose')
+
+2) mongoose.Mongoose // this is returning the instance of the Mongoose object
+ 
+ Mongoose :-> prototype contain some method and properties {prototype}
+ mehtod are like 
+
+ Aggregation()
+ CastError()
+ Collection()
+ Connection()
+ Document()
+ Error()
+ Model()
+ Query()
+ Schema()
+ Shematype()
+
+// this is small letter {}
+================
+ connect() 
+ createConnectioN()
+ deletModel();
+ get()
+ model()
+ now()
+ set()
+
+3)  list of object available in the mongoose api are
+ a) Mongoose 
+ b) Shema
+ c) Connection 
+ d) Document
+ e) Model 
+ f) Query
+ g) Aggregate
+ h) SchemaType
+ f) VirtualType
+
+
+4) 
+
